@@ -1,0 +1,20 @@
+# AutoNet Data Management System
+
+A comprehensive software solution for automated data processing and inventory management, developed during my tenure at Global Tools Pvt Ltd.
+
+## 🛠️ Tech Stack
+- **Backend:** Java, Python
+- **Database:** MySQL
+- **Tools:** Git, Maven
+- **Concepts:** OOP, Data Structures, Database Management
+
+## 🚀 Key Features
+- Automated data processing and validation
+- Inventory and customer management
+- Report generation capabilities
+- Data integrity checks
+
+## 📈 Impact
+- Reduced manual data entry by 70%
+- Improved data retrieval speed by 40%
+- Enhanced system stability through code optimization
